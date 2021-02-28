@@ -3,7 +3,7 @@ title: Rules
 layout: page
 ---
 
-Please read these guidelines before emailing, commenting, or contributing to the discussion on any of the posts here. 
+Please read these guidelines before emailing, commenting, or contributing to the discussion on any of the posts here. These are controversial topics and are expected to be but we as a planet can not move forward without these discussions
 Note: This list is under construction
 
 ### Rules for discussing the content on this site
