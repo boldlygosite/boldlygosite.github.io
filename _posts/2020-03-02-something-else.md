@@ -1,7 +1,7 @@
 ---
 title: Something Else
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
+post-image: "https://github.com/boldlygosite/boldlygosite.github.io/blob/659f28a3a527c63f7f9076d1abfef79f127c9c60/assets/images/something-or-something-else-on-lg.jpg"
 description: We've had alot of history, now its time for the future.
 tags:
 - politics
