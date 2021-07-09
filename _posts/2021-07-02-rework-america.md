@@ -1,7 +1,7 @@
 ---
 title: Re-Make America
 layout: post
-post-image: "https://github.com/boldlygosite/boldlygosite.github.io/blob/659f28a3a527c63f7f9076d1abfef79f127c9c60/assets/images/remake.png"
+post-image: "https://raw.githubusercontent.com/boldlygosite/boldlygosite.github.io/master/assets/images/remake.png"
 description: Forget making America Great lets Re-Make America
 tags:
 - politics
