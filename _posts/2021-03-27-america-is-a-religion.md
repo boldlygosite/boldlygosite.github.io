@@ -1,7 +1,7 @@
 ---
 title: America is a Religion
 layout: post
-post-image: "images/eagle-cross.png"
+post-image: "../assets/images/eagle-cross.png"
 description: America is a Religion.
 tags:
 - politics
