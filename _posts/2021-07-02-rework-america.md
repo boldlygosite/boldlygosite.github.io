@@ -1,7 +1,7 @@
 ---
 title: Re-Make America
 layout: post
-post-image: "./assets/images/remake.png"
+post-image: "../assets/images/remake.png"
 description: Forget making America Great lets Re-Make America
 tags:
 - politics
