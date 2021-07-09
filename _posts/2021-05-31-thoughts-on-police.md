@@ -1,7 +1,7 @@
 ---
 title: Thoughts on Police
 layout: post
-post-image: "https://github.com/boldlygosite/boldlygosite.github.io/blob/master/assets/images/police.png"
+post-image: "images/police.png"
 description: Problems with policing and potential alternatives
 tags:
 - politics
